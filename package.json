@@ -1,0 +1,11 @@
+{
+  "name": "kladr",
+  "version": "0.0.1",
+  "description": "kladr api",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-jsonp": "^1.0.2"
+  }
+}
