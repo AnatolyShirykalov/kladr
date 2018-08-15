@@ -4,7 +4,7 @@ nodejs version of [https://github.com/garakh/kladrapi-jsclient](https://github.c
 
 ## Usage
 ```shell
-yarn add git://git@github.com:AnatolyShirykalov/kladr
+yarn add git://github.com/AnatolyShirykalov/kladr
 ```
 
 and then
